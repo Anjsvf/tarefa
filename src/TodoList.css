@@ -36,7 +36,7 @@ button.add:hover{
 }
 
 .icon-central{
-    height: 500px;
+    height: 100%;
 }
 input{
     display: flex;
