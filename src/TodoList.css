@@ -111,6 +111,7 @@ button.delAll{
 .icon-central {
     width: 80%;
     height: auto;
+    padding: 30px;
 }
 button.delAll:hover{
     background: #F00047;
@@ -122,11 +123,28 @@ button.del:hover{
     padding: 15px;
     cursor: pointer;
 }
-@media screen and(max-width:900px) {
+@media screen and (max-width:900px) {
     form{
-        width: 100%;
+        width: 80%;
+        height: auto;
+        font-size: 20px;
+       
     }
     .listaTarefas{
-        width: 100%;
+        width: 80%;
+    }
+    input{
+   
+        width: 80%;
+        height: 60px;
+       font-size: 20px;
+        justify-content: center;
+        
+    
+    }
+    h1{
+        font-weight: 900px;
+       padding: 20px;
+    
     }
 }
