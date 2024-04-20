@@ -23,7 +23,7 @@ button.add{
 position:absolute;
 top: 0;
 right: 0;
-background-color:#07F050;
+background-color:#307f0b;
 border: none;
 cursor: pointer;
 padding: 10px 25px;
@@ -33,7 +33,7 @@ border-bottom-right-radius: 10px;
 }
 
 button.add:hover{
-    color: white;
+    color: rgb(2, 14, 6);
 }
 
 .icon-central{
